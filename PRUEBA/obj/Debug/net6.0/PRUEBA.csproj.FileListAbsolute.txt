@@ -1,0 +1,15 @@
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\bin\Debug\net6.0\PRUEBA.exe
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\bin\Debug\net6.0\PRUEBA.deps.json
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\bin\Debug\net6.0\PRUEBA.runtimeconfig.json
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\bin\Debug\net6.0\PRUEBA.dll
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\bin\Debug\net6.0\PRUEBA.pdb
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.AssemblyInfo.cs
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.dll
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\refint\PRUEBA.dll
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.pdb
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\PRUEBA.genruntimeconfig.cache
+C:\Users\SENA\Desktop\PRUEBA\PRUEBA\obj\Debug\net6.0\ref\PRUEBA.dll
